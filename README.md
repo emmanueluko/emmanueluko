@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @emmanueluko
 - 👀 I’m interested in open source projects in flutter, laravel, django and ASP.NET
-- 🌱 I’m currently learning flutter mobile dev
 - 💞️ I’m looking to collaborate with you on that new or existing software or mobile dev project
 - 📫 How to reach me ... Buzz my mailbox@ uko.emmanuel3@gmail.com
 
